@@ -6,3 +6,5 @@ int sum = num1 + num2;
 
 int subtract = num1 - num2;
 
+int product = num1 * num2;
+
